@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "!",
+  "api_key": "YOUR_OPENAI_API_KEY"
+}
